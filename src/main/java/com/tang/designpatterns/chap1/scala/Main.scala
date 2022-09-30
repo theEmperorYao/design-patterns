@@ -8,7 +8,7 @@ package com.tang.designpatterns.chap1.scala
     bookShelf.appendBook(new Book("Cinderella"))
     bookShelf.appendBook(new Book("Daddy-Long-Legs"))
 
-//  (0 until 100).foreach(i => {
+//  (0 until 100).foreach(i =`> {
 //    bookShelf.appendBook(new Book(String.valueOf(i)))
 //  });
 

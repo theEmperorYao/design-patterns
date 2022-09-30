@@ -1,4 +1,4 @@
-package com.tang.designpatterns.chap2.java;
+package com.tang.designpatterns.chap2.adapter1;
 
 
 /**

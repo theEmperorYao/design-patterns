@@ -1,4 +1,4 @@
-package com.tang.designpatterns.chap2.java;
+package com.tang.designpatterns.chap2.adapter1;
 
 
 /**
@@ -20,7 +20,7 @@ public class Banner {
         System.out.println("(" + string + ")");
     }
 
-    public void showWithAster() {
+    public void showWithAstar() {
         System.out.println("*" + string + "*");
     }
 }

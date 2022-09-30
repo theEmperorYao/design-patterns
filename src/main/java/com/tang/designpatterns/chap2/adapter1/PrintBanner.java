@@ -1,4 +1,4 @@
-package com.tang.designpatterns.chap2.java;
+package com.tang.designpatterns.chap2.adapter1;
 
 
 /**
@@ -22,6 +22,6 @@ public class PrintBanner extends Banner implements Print {
 
     @Override
     public void printStrong() {
-        showWithAster();
+        showWithAstar();
     }
 }
